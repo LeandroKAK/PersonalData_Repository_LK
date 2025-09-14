@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -9,8 +8,8 @@
 
   <!-- Cabeçalho -->
   <header>
-    <h1>Bem-vindo ao meu site!</h1>
-    <p>Este é um espaço para mostrar meus projetos e aprendizados.</p>
+    <h1>Entrega Inicial | Bootcamp I </h1>
+    <p>Aqui seguem os links do meu trabalho</p>
   </header>
 
   <main>
