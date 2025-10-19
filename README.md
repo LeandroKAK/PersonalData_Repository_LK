@@ -1,7 +1,7 @@
 <body>
-  <h1>Entrega Inicial | Bootcamp I </h1>
-  <p>Segue aqui os links das minhas entregas:</p>
-    <p>Portfólio: https://docs.google.com/document/d/1PgJOEPN-az9vZULAbc-Q7Uxa_vwTII1R_iLwIK8JMyg/edit?tab=t.0 </p>
-    <p>Currículo: https://docs.google.com/document/d/1mcCzW-nFe0lKrZ2beqImgW7pJvn9Cv7HARc8_0oWn40/edit?tab=t.0</p>
-    <p>Video Apresentação: https://youtu.be/P3v8Gqf0aRY </p>
+  <h1>Personal Data Repository </h1>
+  <p>pt-br</p>
+    <p>Repositório dedicado a armazenar meus projetos e meus dados profissionais.</p>
+  <p>eng</p>
+    <p>Repository dedicated as a storage for my projects and professional data.</p>
 </body>
